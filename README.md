@@ -1,5 +1,5 @@
 # MOPSA
-Metabonomics is an emerging field providing insight into physiological processes and difference. Besides conventional PCA, PLS and OPLS approaches, more and more machine learning classifiers are likely to become the supplements for metabolic profiling data analysis. 
+Metabonomics is an emerging field providing new insights into physiological processes and difference. Besides conventional PCA, PLS and OPLS approaches, more and more machine learning classifiers are likely to become the supplements for metabolic profiling data analysis. 
 
 A comprehensive comparison of PLS, support vector machine (SVM, with linear and quadratic kernels), linear discriminant analysis (LDA), and random forest (RF) was conducted applying on clinical metabonomics data. The overall performance of RF and SVM (linear kernel) is superior to the others. 
 
